@@ -230,7 +230,7 @@ namespace config
       0xe8 ,0x8f, 0xfc, 0x9d, 0xc5, 0xb0, 0xb2, 0x8d, 0xad, 0xfc, 0xd3, 0x36, 0x3b, 0x1e, 0x9f, 0x73
     } }; // Bender's nightmare
     //e8 8f fc 9d c5 b0 b2 8d ad fc d3 36 3b 1e 9f 73
-  std::string const GENESIS_TX = ""
+    std::string const GENESIS_TX = "013c01ff0001ffffffffffff03029b2e4c0281c0b02e7c53291a94d1d0cbff8883f8024f5142ee494ffbbd0880712101baff91aadd3576856525950cdc926d4a4bb03b36a26fbe439e99496d1a0b398e"
   //std::string const GENESIS_TX = "013c01ff0001ffffffffffff03029b2e4c0281c0b02e7c53291a94d1d0cbff8883f8024f5142ee494ffbbd08807121017767aafcde9be00dcfd098715ebcf7f410daebc582fda69d24a28e9d0bc890d1";
   uint32_t const GENESIS_NONCE = 10000;
 
@@ -272,7 +272,7 @@ namespace config
     boost::uuids::uuid const NETWORK_ID = { {
       0xe8 ,0x8f, 0xfc, 0x9d, 0xc5, 0xb0, 0xb2, 0x8d, 0xad, 0xfc, 0xd3, 0x36, 0x3b, 0x1e, 0x9f, 0x73
       } }; // Bender's daydream
-    std::string const GENESIS_TX = ""
+      std::string const GENESIS_TX = "013c01ff0001ffffffffffff03029b2e4c0281c0b02e7c53291a94d1d0cbff8883f8024f5142ee494ffbbd0880712101baff91aadd3576856525950cdc926d4a4bb03b36a26fbe439e99496d1a0b398e"
     //std::string const GENESIS_TX = "013c01ff0001ffffffffffff03029b2e4c0281c0b02e7c53291a94d1d0cbff8883f8024f5142ee494ffbbd08807121017767aafcde9be00dcfd098715ebcf7f410daebc582fda69d24a28e9d0bc890d1";
     uint32_t const GENESIS_NONCE = 10001;
   }
@@ -288,7 +288,7 @@ namespace config
     boost::uuids::uuid const NETWORK_ID = { {
       0xe8 ,0x8f, 0xfc, 0x9d, 0xc5, 0xb0, 0xb2, 0x8d, 0xad, 0xfc, 0xd3, 0x36, 0x3b, 0x1e, 0x9f, 0x73
       } }; // Bender's daydream
-    std::string const GENESIS_TX = ""
+      std::string const GENESIS_TX = "013c01ff0001ffffffffffff03029b2e4c0281c0b02e7c53291a94d1d0cbff8883f8024f5142ee494ffbbd0880712101baff91aadd3576856525950cdc926d4a4bb03b36a26fbe439e99496d1a0b398e"
     //std::string const GENESIS_TX = "013c01ff0001ffffffffffff0302df5d56da0c7d643ddd1ce61901c7bdc5fb1738bfe39fbe69c28a3a7032729c0f2101168d0c4ca86fb55a4cf6a36d31431be1c53a3bd7411bb24e8832410289fa6f3b";
     uint32_t const GENESIS_NONCE = 10002;
   }
